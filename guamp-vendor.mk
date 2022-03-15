@@ -2817,7 +2817,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/guamp/proprietary/vendor/radio/qcril_database/upgrade/9_version_qcrildb.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/9_version_qcrildb.sql
 
 PRODUCT_PACKAGES += \
-    libplatformconfig \
     CACertService \
     CneApp \
     IWlanService \
